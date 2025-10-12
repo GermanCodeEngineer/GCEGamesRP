@@ -2,18 +2,19 @@
   "variants": {
     "facing=east": {
       "model": "gcegames:block/light_gray_glazed_terracotta",
-      "y": 270
+      "x": 180
     },
     "facing=north": {
       "model": "gcegames:block/light_gray_glazed_terracotta",
-      "y": 180
+      "x": 180
     },
     "facing=south": {
-      "model": "gcegames:block/light_gray_glazed_terracotta"
+      "model": "gcegames:block/light_gray_glazed_terracotta",
+      "x": 0
     },
     "facing=west": {
       "model": "gcegames:block/light_gray_glazed_terracotta",
-      "y": 90
+      "x": 0
     }
   }
 }
