@@ -9,7 +9,7 @@
       "y": 270
     },
     "facing=east,in_wall=true,open=false": {
-      "model": "minecraft:block/crimson_fence_gate_wall",
+      "model": "gcegames:block/street_wall",
       "y": 270
     },
     "facing=east,in_wall=true,open=true": {
@@ -25,7 +25,7 @@
       "y": 180
     },
     "facing=north,in_wall=true,open=false": {
-      "model": "minecraft:block/crimson_fence_gate_wall",
+      "model": "gcegames:block/street_wall",
       "y": 180
     },
     "facing=north,in_wall=true,open=true": {
@@ -41,7 +41,7 @@
       "uvlock": true
     },
     "facing=south,in_wall=true,open=false": {
-      "model": "minecraft:block/crimson_fence_gate_wall",
+      "model": "gcegames:block/street_wall",
       "uvlock": true
     },
     "facing=south,in_wall=true,open=true": {
@@ -57,7 +57,7 @@
       "y": 90
     },
     "facing=west,in_wall=true,open=false": {
-      "model": "minecraft:block/crimson_fence_gate_wall",
+      "model": "gcegames:block/street_wall",
       "y": 90
     },
     "facing=west,in_wall=true,open=true": {
