@@ -1,0 +1,25 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"main": "gcegames:block/street_fence_side",
+		"particle": "#main"
+	},
+	"elements": [
+		{
+			"name": "side",
+			"from": [7, 6, 0],
+			"to": [9, 15, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [0, 4.5, 1, 9], "texture": "#main"},
+				"east": {"uv": [0, 0, 3, 4.5], "texture": "#main"},
+				"south": {"uv": [1, 4.5, 2, 9], "texture": "#main"},
+				"west": {"uv": [3, 0, 6, 4.5], "texture": "#main"},
+				"up": {"uv": [3, 7.5, 2, 4.5], "texture": "#main"},
+				"down": {"uv": [4, 4.5, 3, 7.5], "texture": "#main"}
+			}
+		}
+	]
+}
