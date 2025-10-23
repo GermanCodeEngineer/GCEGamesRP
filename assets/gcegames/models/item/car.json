@@ -4,8 +4,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"body": "gcegames:item/car_body",
-		"wheel": "gcegames:item/car_wheel",
-		"particle": "#wheel"
+		"particle": "gcegames:item/car_wheel",
+		"wheel": "gcegames:item/car_wheel"
 	},
 	"elements": [
 		{
@@ -79,6 +79,28 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, -1.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, -1.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 4, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 4, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [15, 60, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
 	"groups": [
 		0,
 		{
