@@ -1,0 +1,17 @@
+{
+	"textures": {
+		"particle": "gcegames:item/start_portal",
+		"portal": "gcegames:item/start_portal"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 0],
+			"to": [10, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#portal"}
+			}
+		}
+	]
+}
