@@ -4,7 +4,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"body": "gcegames:item/car_body",
-		"particle": "gcegames:item/car_wheel",
+		"particle": "#wheel",
 		"wheel": "gcegames:item/car_wheel"
 	},
 	"elements": [

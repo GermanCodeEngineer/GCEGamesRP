@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"lower": "gcegames:item/boost_lower",
-		"particle": "gcegames:item/boost_upper",
+		"particle": "#upper",
 		"upper": "gcegames:item/boost_upper"
 	},
 	"elements": [
